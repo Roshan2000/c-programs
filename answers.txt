@@ -1,0 +1,2 @@
+main() means caled
+it is used for preprocessing
